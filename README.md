@@ -1,15 +1,17 @@
+<!doctype html>
 <html lang="en">
   <head>
-  
     <meta charset="utf-8">
+    <title>Portfolio</title>
   </head>
-  
   <body>
-  #Not your average Developer
-  
-  </body>
-  
-</html>
+    
+    
+    
+    
+    
+   </body>
+ </hmtl>
 
 
 
