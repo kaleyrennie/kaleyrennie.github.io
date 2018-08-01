@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Portfolio</title>
+    <title>Kaley Rennie</title>
   </head>
   <body>
     
