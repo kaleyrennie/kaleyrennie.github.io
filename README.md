@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
-    <title> Kaley Rennie</title>
+    # Not your average Developer.
     <meta charset="utf-8">
   </head>
   
